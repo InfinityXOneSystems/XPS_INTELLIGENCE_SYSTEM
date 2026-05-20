@@ -33110,5 +33110,21 @@
     "reviews": 0,
     "source": "yellowpages",
     "scrapedAt": "2026-05-16"
+  },
+  {
+    "company": "Lowe's Home Improvement",
+    "phone": "(772) 295-6207",
+    "email": "",
+    "website": "http://loweshomeimprovement582331836.localsearch.com",
+    "address": "SW Village PkwyPort Saint Lucie, FL 34987",
+    "city": "Port Saint Lucie",
+    "state": "FL",
+    "country": "USA",
+    "keyword": "epoxy flooring",
+    "category": "epoxy flooring",
+    "rating": 0.0,
+    "reviews": 0,
+    "source": "yellowpages",
+    "scrapedAt": "2026-05-20"
   }
 ]
