@@ -33126,5 +33126,21 @@
     "reviews": 0,
     "source": "yellowpages",
     "scrapedAt": "2026-05-20"
+  },
+  {
+    "company": "Jay's Floors and More",
+    "phone": "(772) 236-1674",
+    "email": "",
+    "website": "https://www.jaysfloorsandmore.com",
+    "address": "1720 SE Port St Lucie BlvdPort Saint Lucie, FL 34952",
+    "city": "Port Saint Lucie",
+    "state": "FL",
+    "country": "USA",
+    "keyword": "epoxy flooring",
+    "category": "epoxy flooring",
+    "rating": 0.0,
+    "reviews": 0,
+    "source": "yellowpages",
+    "scrapedAt": "2026-06-13"
   }
 ]
