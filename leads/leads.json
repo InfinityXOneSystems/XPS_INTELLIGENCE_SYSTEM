@@ -33142,5 +33142,21 @@
     "reviews": 0,
     "source": "yellowpages",
     "scrapedAt": "2026-06-13"
+  },
+  {
+    "company": "Carpets Etc",
+    "phone": "(772) 888-0867",
+    "email": "",
+    "website": "https://www.carpetsetcpsl.com",
+    "address": "1374 SE Huffman RdPort St Lucie, FL 34952",
+    "city": "Port St Lucie",
+    "state": "FL",
+    "country": "USA",
+    "keyword": "epoxy flooring",
+    "category": "epoxy flooring",
+    "rating": 0.0,
+    "reviews": 0,
+    "source": "yellowpages",
+    "scrapedAt": "2026-06-14"
   }
 ]
