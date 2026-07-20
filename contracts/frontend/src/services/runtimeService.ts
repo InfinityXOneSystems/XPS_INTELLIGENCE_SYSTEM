@@ -38,12 +38,7 @@ export type CommandType =
   | "unknown";
 
 export type TaskStatus =
-  | "pending"
-  | "queued"
-  | "running"
-  | "completed"
-  | "failed"
-  | "retrying";
+  "pending" | "queued" | "running" | "completed" | "failed" | "retrying";
 
 export interface RuntimeCommandRequest {
   /** Natural-language or structured command text (1–2000 chars) */
