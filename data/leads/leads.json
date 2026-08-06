@@ -33254,5 +33254,21 @@
     "reviews": 0,
     "source": "yellowpages",
     "scrapedAt": "2026-07-23"
+  },
+  {
+    "company": "Groza Builders Inc",
+    "phone": "(772) 336-7653",
+    "email": "",
+    "website": "http://www.grozahomes.com",
+    "address": "511 SW Port St Lucie BlvdPort St Lucie, FL 34953",
+    "city": "Port St Lucie",
+    "state": "FL",
+    "country": "USA",
+    "keyword": "general contractors",
+    "category": "general contractors",
+    "rating": 0.0,
+    "reviews": 0,
+    "source": "yellowpages",
+    "scrapedAt": "2026-08-06"
   }
 ]
